@@ -1,4 +1,5 @@
 # stream rainbow numbers
+## https://briaguya-ai.github.io/stream-rainbow-numbers?`YOUR_TWITCH_CHANNEL_NAME_HERE`
 
 ## dev environment
 * [debian sid](https://www.debian.org/releases/sid/)

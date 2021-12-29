@@ -37,7 +37,7 @@
     },
     mounted() {
       ComfyJS.onChat = this.handleChat;
-      this.channelName = window.location.pathname.split('/')[1];
+      this.channelName = window.location.href.split('?')[1];
       ComfyJS.Init(this.channelName);
     },
     methods: {
