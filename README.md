@@ -11,7 +11,7 @@
 * [firefox](https://www.mozilla.org/en-US/firefox/new/)
   * [Vue.js devtools (beta)](https://github.com/vuejs/devtools/releases/tag/v6.0.0-beta.21)
 
-### Twitch integration using [Twurple](https://twurple.js.org/)
+### Twitch integration using [ComfyJS](https://github.com/instafluff/ComfyJS)
 
 ## Project setup
 ```
